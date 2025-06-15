@@ -1,6 +1,10 @@
 # 📱 Sistem Pendukung Keputusan Pemilihan Smartphone dengan TOPSIS
 
-[![Click Here!, Try App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](http://topsis-smartphone-app-sic.streamlit.app/)
+Penasaran ingin mencoba? Aplikasi ini sudah live! Klik tombol di bawah untuk langsung menuju aplikasi web dan menemukan smartphone terbaik untuk Anda.
+
+[![Buka Aplikasi](https://img.shields.io/badge/Buka%20Aplikasi%20Web-🚀-green?style=for-the-badge)](http://topsis-smartphone-app-sic.streamlit.app/)
+
+---
 
 Selamat datang di proyek Sistem Rekomendasi Smartphone! Aplikasi web interaktif ini dibangun untuk membantu pengguna dalam memilih smartphone terbaik berdasarkan preferensi pribadi mereka menggunakan **Metode TOPSIS (_Technique for Order of Preference by Similarity to Ideal Solution_)**.
 
